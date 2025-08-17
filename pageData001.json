@@ -1,0 +1,1048 @@
+{
+    
+        "initiallyOpen": "none",
+        "header": {
+            "label": "RE3ELOVÉ",
+            "labelColor": "#333",
+            "labelFontSize": "4em",
+            "contentColor": "#f9f9f9",
+            "contentFontSize": "2.5em",
+            "logoSrc": "vlajka.jpg", 
+            "logoAlt": "Vskutku rebelská vlajka", 
+            "content": [
+            {    
+             "text": "Jste už unavení z nekonečných politických debat, které nikam nevedou? Z toho, jak se politici navzájem jen napadají a nic se neřeší? A možná už i uvažujete, že v příštích volbách raději zůstanete doma."
+            },
+            {
+                "text": "Rozumíme tomu. Vidíme, jak se politika vzdálila každodenním starostem lidí jako jste vy."
+            },
+            {
+                "text": "A proto jsme se rozhodli jednou provždy zakročit. Nemáme známé tváře ani mediální záštitu, ale máme něco daleko cennějšího – odhodlání a schopnost opravdu měnit věci k lepšímu."
+            },
+            {
+                "text": "<b>Přicházíme s novým přístupem</b>",
+                "items": [
+                    {
+                        "text": "Jasně identifikujeme problémy, které nás všechny trápí."
+                    },
+                    {
+                        "text": "Nabízíme konkrétní řešení s měřitelnými výsledky."
+                    },
+                    {
+                        "text": "Komunikujeme otevřeně, bez prázdných frází a politických triků."
+                    }
+                ]
+            },
+            {
+                "text": "Nejsme kariérní politici. Jsme lidé, kteří sdílejí vaše starosti, protože jsou i našimi. Nemáme za sebou velké sponzory ani politické mafie, ale máme odvahu mluvit pravdu a skutečně přinášet změny."
+            },
+            {
+                "text": "Možná si myslíte, že některé změny nejsou možné, že \"ti nahoře\" nám to nedovolí. To je ale obrovský mýtus. Vy jste \"ti nahoře\". Stačí, když přestanete volit loutky, a začnete volit skutečné změny."
+            }
+            ,
+            {
+                "text": "Sice už vzniklo mnoho iniciativ, které nedopadly podle očekávání, ale stále máte na výběr: můžete pokračovat v hlasování pro ty, kteří se jen vezou na vlně stagnace, nebo můžete zkusit změnu. A když o tom přesvědčíte i ostatní, změníte víc, než si dokážete představit!"
+            }
+            ,
+            {
+                "text": "Naše motto: <b>Když se chce, všechno jde!</b>"
+            }
+        ]
+        },
+        "menu": {
+                "textColor": "#333",
+                "activeColor": "rgba(0, 0, 0, 0.15)",
+                "hoverColor": "rgba(0, 0, 0, 0.1)",
+                "inactiveColor": "#000",
+                "fontSize": "2em",
+
+
+                "items": [
+                   {
+                        "text": "ČKO",
+                        "link": "#onas",
+                        "active": true,
+                        "enabled": true,
+             "FAQ": [
+            {
+                "Q": "Co jste zač?",
+                "C": "Typická otázka po přečtení našeho programu, který se většinou líbí úplně všem.",
+                "A": "Nejsme politici ani aktivisté z povolání - jsme nezávislí, každodenně pracující lidé, kteří se cítí být trochu rebely."
+                },
+            {
+                "Q": "Jakou máte politickou ideologii?",
+                "C": "Těžká otázka, kterou jsme si nikdy primárně nekladli, protože se necítíme být na nějaké politické straně.",
+                "A": "Podle nezávislých hodnocení se pro nás nejvíce hodí <b>Centrismus</b> nebo <b>Radikální centrismus</b>. Sami se vnímáme jako strana zdravého rozumu.",
+                "FreeHTML": "<div style='background-color: #e8f4fd; padding: 15px; border-radius: 8px; margin: 10px 0;'><h4 style='margin: 0 0 10px 0;'>Wikipage: <a href='https://en.wikipedia.org/wiki/Radical_centrism'>Radical centrism</a></h4></div>"
+            }, 
+            
+
+            {
+                "Q": "Kdo za vámi stojí?",
+                "C": "Tuhle otázku dostáváme neustále! Jste nastrčení od Kalouska, Babiše, Fialy, Putina a kdo ví od koho ještě?",
+                "A": "Stojí za námi pouze naše nadšení, spousta popracovního času a vytrvalost."
+              },
+            {
+                "Q": "Kdo jsou zakladatelé strany Rebelové?",
+                "C": "Tuhle otázku nikdo nepoložil tak jsme si ji vymysleli sami:)",
+                "A": "Dva kamarádi co se shodli na tom že letos vážně není koho volit a přibrali do party ještě třetího",
+                "FreeHTML": "<div class='candidates-container'><div class='candidate-card'><img src='./src/velitel.jpg' class='candidate-photo'><div class='candidate-info'><h2 class='candidate-name'>Miloslav Zientek</h2><div class='candidate-age'>49 let</div><div class='candidate-bio'>IT expert a analytik, autor golfových statistik www.golfparada.cz, pragmatický optimista, sportovec a taky trochu rebel</div></div></div><div class='candidate-card'><div class='photo-placeholder'>Foto se připravuje</div><div class='candidate-info'><h2 class='candidate-name'>Petr Sodomka</h2><div class='candidate-age'>50 let</div><div class='candidate-bio'>Učetní a finanční poradce, sportovec a taky trochu rebel</div></div></div><div class='candidate-card'><div class='photo-placeholder'>Foto se připravuje</div><div class='candidate-info'><h2 class='candidate-name'>Václav Švarc</h2><div class='candidate-age'>60 let</div><div class='candidate-bio'>Datový analytik, velmi aktivní sportovec a taky trochu rebel</div></div></div></div>"
+            },
+            {
+                "Q": "Proč to děláte?",
+                "A": "Jsme zklamaní politickou situací a rozhodli jsme se zjistit, jak to vlastně vypadá s naší demokracií a jak je možné se zapojit."
+              
+            },             
+            {
+                "Q": "Čeho chete dosánout?", 
+                "A": "Naším cílem je, aby stát fungoval systémově a inteligentně. Chceme nakopnout růst HDP a důvěru občanů ve stát."
+              
+              },             
+            {
+                "Q": "Jak chcete prosadit vaše programové cíle?", 
+                "A": "Jednoduše! Pokud se dostanem do sněmovny, tak i v minimálním počtu (10 poslanců) můžem být jazýčkem na vahách velmi silně polarizované sněmovny. V této pozici pak můžeme prosazovat své programové body."
+              
+              },             
+            {
+                "Q": "Co je program-hash v názvu strany na volebním lístku?", 
+                "A": "Jsme jediná strana, která se zavázala a zmrazila program před podáním kandidátních listin. Udělali jsme kontrolní součet(hash) našeho volebího program v textové verzi a tento vetkli do našeho názvu. Pomocí tohoto krátkého textového řetězce si může každý ověřit, že jsme do programu nic nedopisovali nebo neumazávali do konce voleb. Zároveň tím můžeme dokázat, že jsme od nikoho program neopsali či nedopsali.",
+                "FreeHTML": "<div style='background-color: #e8f4fd; padding: 15px; border-radius: 8px; margin: 10px 0;'><h4 style='margin: 0 0 10px 0;'>Program: <a href='./program2025.txt'>program2025.txt</a> UTF-8 Shake128 Base62 Hash: 3wtBw2bAJ621vWSxxgJHFG</h4></div>"
+  
+              
+              
+              }
+            
+
+
+           ]
+                    }
+                 ,
+                  {
+                        "text": "Pomoc",
+                        "link": "#pomoc",
+                        "active": true,
+                        "enabled": true,
+                        "content": [
+                            {
+                                "text": "<b class='faq-question'>Připojte se k nám</b>",
+                                "items": [
+                                    {
+                                        "text": "Cítíte se být taky rebelem? Líbí se vám náš program? Máte v hlavě podobné náměty?"
+                                    },
+                                    {
+                                        "text": "Připojte se prostřednictvím naší facebookové <a href=\"https://www.facebook.com/groups/719816690464096\">skupiny</a>."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b class='faq-question'>Podpořte nás finančně</b>",
+                                "items": [
+                                    {
+                                        "text": "Jsme nezávislí, bez velkých sponzorů."
+                                    },
+                                    {
+                                        "text": "Máte možnost nás podpořit finančně? Věříte, že naše práce má smysl?"
+                                    }
+                                    ,
+                                    {
+                                        "text": "Každý příspěvek nám pomůže - pošlete ho na náš bankovní účet: 6706041389/0800."
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "<b class='faq-question'>Šiřte naše myšlenky</b>",
+                                "items": [
+                                    {
+                                        "text": "I malá pomoc má velký význam!"
+                                    },
+                                    {
+                                        "text": "Sdílejte nás a sledujte na  <a href=\"https://www.facebook.com/profile.php?id=61574933116168\" width=300px >Facebooku</a>."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+
+                ]
+            },
+                    "footer": {
+                        "backgroundColor": "#333",
+                        "textColor": "#fff",
+                        "padding": "20px",
+                        "copyright": "© 2025 REBELOVÉ",
+                        "sections": [
+
+                        ]
+                    },
+        "chapters": [
+            {
+                "orderNumber": 1,
+                "name": "Do roka dostupné bydlení pro všechny!",
+                "howName": "Jak? Zdaníme vlastníky prázdných nemovitostí.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                        "text": "Všichni vidíme, jak rychle rostou ceny bytů a nájmů. Pro mnoho z nás je vlastní bydlení čím dál více nedosažitelné a nájem ukrajuje stále větší část výplaty. Tento problém trápí mladé rodiny, seniory i pracující - prostě většinu z nás. Je čas to změnit!"
+                    },
+                    {
+                        "text": "Víte, že podle posledního sčítání lidu a domů máme v Česku 860 tisíc prázdných bytů? To je obrovské číslo! A my máme plán, jak tyto byty vrátit k jejich původnímu účelu - bydlení pro lidi."
+                    },
+                    {
+                        "text": "<b>Co pro to uděláme?</b>",
+                        "items": [           
+                                {
+                                    "text": "Účelově zdaníme vlastníky prázdných nemovitostí, aby se zvýšila motivace je pronajímat k bydlení lidem, kteří hledají domov."
+                                },
+                                {
+                                    "text": "Zjednodušíme a zrychlíme stavební řízení."
+                                }
+                                ,
+                                {
+                                    "text": "Budeme směřovat k návratu k normálu, kdy se v bytech bydlelo, v hotelech a ubytovnách přespávalo a v kancelářích pracovalo."
+                                }
+                            ]
+                    },
+                    {
+                        "text": "<b>Náš cíl je jasný - do jednoho roku chceme zvýšit dostupnost bydlení o 20 %.</b>"     
+                    }
+                ]
+            },
+            {
+                "orderNumber": 2,
+                "name": "Snížení plateb za elektřinu o 25%",
+                "howName": "Jak? Snížíme regulované poplatky za distribuci.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                        "text": "Česká republika je téměř plně závislá na dovozu plynu a ropy ze zahraničí. Elektřina je jediný zdroj energie, který si ale dokážeme vyrobit sami."
+                    },
+                    {
+                        "text": "Proto musíme její výrobu a efektivní využití maximálně podporovat, aby byla jako primární zdroj nejdostupnější pro domácnosti i firmy."
+                    },
+                    {
+                        "text": "<b>Co pro to uděláme?</b>",
+                        
+                        "items": [
+                            
+                                {
+                                    "text": "Zrevidujeme regulované platby za infrastrukturu a zvýšíme konkurenci v distribuci elektřiny."
+                                },
+                                {
+                                    "text": "Zavedeme volný minutový trh s nákupem a výkupem elektřiny."
+                                },
+                                {
+                                    "text": "Podpoříme individuální projekty solární elektřiny a systémy pro ukládání energie."
+                                }
+                                ,
+                                {
+                                    "text": "Dáme každému možnost uchovávat a odprodávat elektřinu podle aktuální sazby."
+                                },
+                                {
+                                    "text": "Maximálně podpoříme jadernou energetiku včetně experimentálních projektů minireaktorů či využití thoria."
+                                }
+                               
+                            ]
+                    },
+                    {
+                        "text": "<b>Náš cíl:</b>",
+                        
+                        "items": [
+                            
+                                {
+                                    "text": "Stabilizace cen elektřiny a snížení celkových nákladů na energii pro české domácnosti i firmy o 25%."
+                                },
+                                {
+                                    "text": "Chceme, aby každý mohl aktivně ovlivňovat své výdaje za elektřinu a aby Česká republika posílila svou energetickou nezávislost."
+                                }
+                               
+                            ]
+                    }
+                ]
+            }
+            ,
+            {
+                "orderNumber": 3,
+                "name": "Snížení DPH na 20% a 10%",
+                "howName": "Zaokrouhlené sazby jsou prostě sexy.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "<b>Našim cílem je zjednodušit a upravit daňový systém:</b>",
+                    "items": [
+                    {
+                    "text": "Zarovnání sazeb DPH na dvě přehledné úrovně - 20% a 10%"
+                    },
+                    {
+                    "text": "Zvýšení základní daňové sazby z příjmů na 25% u příjmů nad 2 miliony ročně."
+                    },
+                    {
+                    "text": "Snížení korporátní daně na 15 procent pro podporu podnikání a konkurenceschopnosti."
+                    },
+                    {
+                    "text": "Sjednocení spotřební daně na alkohol pro všechny alkoholické nápoje podle obsahu ethanolu."
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "Systematické a zaokrouhlené daňové sazby usnadňují plánování osobních i firemních financí."
+                    },
+                    {
+                    "text": "Spravedlivější rozložení daňové zátěže mezi občany a firmy."
+                    }
+                    ]
+                    }
+                    ]
+            }
+            ,
+            {
+                "orderNumber": 4,
+                "name": "Průhledné VYÚČTOVÁNÍ VAŠICH DANÍ",
+                "howName": "Jak? Elektronicky a s přesnýma částkama.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                      {
+                        "text": "Platíte daně, ale vlastně přesně nevíte, na co všechno přispíváte? Kolik z vašich peněz jde na důchody, příspěvky na bydlení nebo třeba na prezidentský úřad? Je čas to změnit."
+                      }  ,
+                      {
+                        "text": "Máte právo vědět, kam jdou vaše peníze."
+                      }  ,
+                      {
+                        "text": "<b>Našim cílem je aby každý občan dostal jednou ročně přehledný elektronický výpis, který jasně ukáže:</b>",
+
+
+                        "items": [
+                            {
+                                "text": "Přesnou částku svých odvedených daní, případně obdržených státních dávek."
+                            },
+                            {
+                                "text": "Detailní rozpis, kolik z vašich peněz šlo na konkrétní oblasti (policie, školství, provoz ministerstev atd.)."
+                            },
+                            {
+                                "text": "V takové formě aby to z toho výpisu pochopil průměrný žák deváté třídy základní školy (žádné odborné účetní termíny)."
+                            }
+
+                        ]
+                    }
+                    ,
+                      {
+                        "text": "<b>Proč to chceme:</b>",
+
+
+                        "items": [
+                            {
+                                "text": "Je to vaše právo vědět, jak stát nakládá s vašimi penězi."
+                            },
+                            {
+                                "text": "Zvýší to důvěru občanů ve stát."
+                            },
+                            {
+                                "text": "V digitální době je to technicky jednoduché a levné řešení."
+                            }
+
+                        ]
+                    }
+                    
+                ]
+            }
+            ,
+            {
+                "orderNumber": 11,
+                "name": "Radikální reforma zastaralého školství",
+                "howName": "Motivovat děti k aktivitě a školy k hospodaření.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                      "text": "<b><i>\"Škola má děti rozvíjet, ne stresovat</i></b>\""
+                    },
+                     
+                        {
+                          "text": "Současný systém základního školství je zastaralý, složitý a nevyhovující, potřebám dětí, rodičů ani budoucnosti naší země. Je čas na změnu!"
+
+                        },
+                        {
+                          "text": "<b>Naším cílem je vytvoření moderní základní školy, která:</b>",
+                          "items": [
+                            {
+                              "text": "Rozvíjí skutečně potřebné dovednosti."
+                            },
+                            {
+                              "text": "Motivuje děti k učení."
+                            },
+                            {
+                              "text": "Usnadňuje život rodinám."
+                            },
+                            {
+                              "text": "Hospodaří samostatně a efektivně."
+                            }
+                          ]
+                        }
+                      
+                    ,
+                    {
+                      "text": "<b>Co chceme změnit</b>",
+                      "items": [
+                        {
+                          "text": "Na prvním stupni se zaměřit na 6 klíčových dovedností (4 roky)",
+                          "items": [
+                            {
+                              "text": "Porozumění textu (Čtení)."
+                            },
+                            {
+                              "text": "Manuální zručnost (Psaní)."
+                            },
+                            {
+                              "text": "Základy cizího jazyka (jednoduchá komunikace v angličtině)."
+                            },
+                            {
+                              "text": "Logické myšlení (Matematika)."
+                            },
+                            {
+                              "text": "Sportování (Tělesná výchova)."
+                            },
+                            {
+                              "text": "Sociální dovednosti (Hraní společenských her)."
+                            }
+                          ]
+                        },
+                        {
+                          "text": "Na druhém stupni se víc zaměřovat a zvídat (4 roky)",
+                          "items": [
+                            {
+                              "text": "Jak mluvit spisovně v českém jazyce."
+                            },
+                            {
+                              "text": "Jak číst a psát v cizím jazyku."
+                            },
+                            {
+                              "text": "Jak popisuje matematika svět (Fyzika)."
+                            },
+                            {
+                              "text": "Jak se rychleji zlepšovat ve sportu, který mě baví."
+                            },
+                            {
+                              "text": "Jak rozvíjet více dovednosti, které jsou mi nejpřirozenější."
+                            }
+                          ]
+                        },
+                        {
+                          "text": "Konec známkování",
+                          "items": [
+                            {
+                              "text": "Zavedeme systém úrovní dovedností."
+                            },
+                            {
+                              "text": "Důraz na individuální pokrok každého žáka."
+                            },
+                            {
+                              "text": "Cílem je <b>\"umět\"</b>, ne \"dostat jedničku\"."
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "text": "Škola jako centrum aktivit:",
+                          "items": [
+                            {
+                              "text": "Spojení výuky a zájmových kroužků na jednom místě."
+                            },
+                            {
+                              "text": "Konec složitého dojíždění mezi aktivitami."
+                            },
+                            {
+                              "text": "Úspora času pro rodiny."
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "text": "Spravedlivé financování:",
+                          "items": [
+                            {
+                              "text": "Pevně stanovená částka na žáka na školní i zájmovou aktivitu."
+                            },
+                            {
+                              "text": "Samostatné hospodaření škol."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                        "text": "Chceme školu, kde se děti učí s radostí a rodiče mají čas si své děti užívat místo řešení školních problémů."
+                      }
+                  ]
+            }
+            ,
+            {
+                "orderNumber": 15,
+                "name": "Účast ve finále MS ve fotbale do roku 2050",
+                "howName": "Přímá podpora trénování dětí. Soumrak funkcionářů.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Taky by se vám líbilo, kdybychom zase jednou hráli prim na MS ve fotbale? Vzpomínáte, jak nám naši rodiče ukazovali a vštěpovali, že sport je krásný a zdravý? Je čas vrátit se k těmto hodnotám."
+                    },
+                    {
+                    "text": "Ti, kteří ve svém volném čase trénují děti, si zaslouží skutečnou podporu, ne byrokracii."
+                    },
+                    {
+                    "text": "<b>Našim cílem je podpořit přímou cestou sport pro děti a mládež:</b>",
+                    "items": [
+                    {
+                    "text": "Zrušení zbytečné byrokracie a nadbytečných institucí ve sportu, například Národní sportovní agentury."
+                    },
+                    {
+                    "text": "Zavedení systému, kde každá sportovní organizace dostane pevnou částku za účast dítěte na sportovním programu nebo tréninku."
+                    },
+                    {
+                    "text": "Pro malé sportovce bude částka menší, ale přiměřená jejich potřebám a intenzitě tréninku."
+                    },
+                    {
+                    "text": "Pro každý ročník bude stejná částka rozdělena pro všechny sportovce rovnoměrně."
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "Podpora sportu od útlého věku vede k zdravějšímu životnímu stylu celé společnosti."
+                    },
+                    {
+                    "text": "Peníze půjdou přímo na sportovní činnost dětí, ne na platy úředníků."
+                    },
+                    {
+                    "text": "Rovnoměrné rozdělení prostředků zajistí, že i menší sporty dostanou spravedlivou podporu."
+                    },
+                    {
+                    "text": "Silná sportovní základna je cestou k budoucím úspěchům na mezinárodní scéně."
+                    }
+                    ]
+                    }
+                    ]
+            }
+            ,
+            {
+                "orderNumber": 8,
+                "name": "Konečně spravedlivé důchody",
+                "howName": "O kolik je ekonomika silnější, o tolik se zvýší důchody.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Z hledání důchodového systému se stalo věčné téma politiků. Rádi o něm mluví jako o dokonalém řešení, na kterém se musí shodnout koalice i opozice. V nitru ale vědí, že jim to žádné politické body nepřinese, a tak raději kupují voliče různými sliby."
+                    },
+                    {
+                    "text": "Ve skutečnosti už důchodový systém existuje - pracující děti platí důchody svým rodičům. Je čas tento přirozený systém jen postavit do latě a zakotvit v ústavě."
+                    },
+                    {
+                    "text": "<b>Našim cílem je vytvořit spravedlivý a udržitelný důchodový systém:</b>",
+                    "items": [
+                    {
+                    "text": "Celková částka vydaná na důchody by měla odpovídat pevnému procentu HDP (např. 8,5%)"
+                    },
+                    {
+                    "text": "Rozdělení částky mezi důchodce se spočítá podle odvedených plateb (s úroky) na důchodové pojištění, včetně plateb jejich vychovaných dětí od doby co jsou v důchodu."
+                    },
+                    {
+                    "text": "Nejnižších 10% vypočtených důchodů se zvýší na úroveň, kterou má důchodce na 10. percentilu."
+                    },
+                    {
+                    "text": "Nejvyšších 10% vypočtených důchodů se sníží na úroveň, kterou má důchodce na 90. percentilu."
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "S růstem HDP budou automaticky valorizovány důchody bez potřeby neustálých politických zásahů."
+                    },
+                    {
+                    "text": "Systém reflektuje realitu mezigeneračního kontraktu - děti se starají o své rodiče."
+                    },
+                    {
+                    "text": "Omezení extrémních výkyvů v důchodech zajistí solidaritu a důstojné stáří pro všechny."
+                    },
+                    {
+                    "text": "Jasná a ústavně zakotvená pravidla znamenají konec s politickými hrami kolem důchodů."
+                    }
+                    ]
+                    }
+                    ]
+            }
+            ,
+            {
+                "orderNumber": 7,
+                "name": "Zrušení poplatku za TV a rádio",
+                "howName": "Okamžitě!",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Konec nekonečným dohadům o poplatku za TV a rádio. Platíme za silnice, školy i nemocnice z veřejného rozpočtu, proč ne za veřejnoprávní média? Je čas zjednodušit systém."
+                    },
+                    {
+                    "text": "Veřejná média jsou v demokratické společnosti potřeba, ale způsob jejich financování potřebuje změnu."
+                    },
+                    {
+                    "text": "<b>Našim cílem je vytvořit spravedlivý a stabilní systém financování veřejných médií:</b>",
+                    "items": [
+                    {
+                    "text": "Zrušení koncesionářských poplatků a přechod na financování z veřejného rozpočtu."
+                    },
+                    {
+                    "text": "Minimální a maximální částka pro veřejná média by měla vycházet z ročního HDP (např. 0.1%)."
+                    },
+                    {
+                    "text": "Schválení konečné částky by podléhalo předložení rozpočtu ze strany veřejných médií na každý rok."
+                    },
+                    {
+                    "text": "Zachování kontrolní role Rady pro rozhlasové a televizní vysílání."
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "Zjednodušení systému - konec vymáhání poplatků a administrativy s tím spojené."
+                    },
+                    {
+                    "text": "Spravedlivější financování - přispívat budou všichni daňoví poplatníci, ne jen ti s televizí či rádiem."
+                    },
+                    {
+                    "text": "Větší transparentnost - jasně daný rozpočet schvalovaný každý rok."
+                    },
+                    {
+                    "text": "Zachování nezávislosti médií díky zákonem stanovenému způsobu financování."
+                    }
+                    ]
+                    }
+                    ]
+            }
+            ,
+            {
+                "orderNumber": 5,
+                "name": "Konec podvodů s cenami v supermarketech",
+                "howName": "Zavedeme přísná pravidla pro řetězce s potravinami.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                      "text": "Taky vás štvou marketingové triky, které na nás zkoušejí supermarkety? Jako například cenovky nahoře nebo dole, zvýrazněné ceny bez faktické slevy nebo slevy uváděné z běžné ceny, která není běžná? Je čas to změnit."
+                    },
+                    {
+                      "text": "Zasloužíte si poctivé a transparentní ceny bez manipulace a klamání."
+                    },
+                    {
+                      "text": "<b>Našim cílem je zavést jednotný a transparentní systém označování zboží pro velké řetězce potravin:</b>",
+                      "items": [
+                        {
+                          "text": "Jednotné cenovky s předem definovanou podkladovou barvou pro slevy a běžnou cenu"
+                          },
+                            {
+                                "text": "Na cenovce bude uveden pouze název, konečná cena a cena za jednotku."
+                              },
+                              {
+                                "text": "Procentuální sleva může být uvedena, ale velikost fontu nesmí být větší než cena za jednotku."
+                              },
+                              {
+                                "text": "Sleva se počítá od nejnižší ceny za posledních 30 dní od začátku slevy a takto může být zboží označeno až 14 dnů."
+                              }
+                      ]
+                        
+                    },
+                        
+                        {
+                            "text": "Veškeré ceny se budou kontrolovat jednotným systémem, na který budou odesílány ceny před každým prodejním dnem."
+                          },
+                          {
+                            "text": "Změna složení nebo hmotnosti zboží bude považována za nové zboží a musí být zřetelně (barevně nebo s výrazným upozorněním) uvedeno na obale."
+                          
+                        
+                      
+                    },
+                    {
+                      "text": "<b>Proč to chceme:</b>",
+                      "items": [
+                        
+                        {
+                          "text": "Konec klamavým slevám a marketingovým trikům, které matou zákazníky"
+                        },
+                        {
+                          "text": "Skutečná transparentnost pomůže spotřebitelům dělat informovaná rozhodnutí o nákupech"
+                        }
+                      ]
+                    }
+                  ]
+            }
+            ,
+            {
+                "orderNumber": 10,
+                "name": "Reforma vězeňství aneb práce šlechtí",
+                "howName": "Vězeň si svobodu musí poctivě odpracovat.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                      "text": "Na jedné straně máme nízkou nezaměstnanost a totální nedostatek pracovníků i v těch nejzákladnějších profesích. Na druhé straně přeplněné věznice, které stát stojí nemalé peníze, a navíc shovívavější soudy, které je nechtějí tolik zatěžovat. Je čas to změnit."
+                    },
+                    {
+                      "text": "Vězeň by měl společnosti splácet svůj dluh nejen odnětím svobody, ale i prací a finanční kompenzací."
+                    },
+                    {
+                      "text": "<b>Našim cílem je vytvořit stupňovitý systém vězeňství spojený s pracovní povinností:</b>",
+                      "items": [
+                        {
+                          "text": "Nastavit, že trest, který vězeň odpykává společnosti, není jen odnětí svobody, ale hlavně finanční, a tyto tresty je nutné vyplnit oba"
+                        },
+                        {
+                          "text": "Zřídit různé úrovně pohodlí vězňů - od nejnižší úrovně pro ty, kteří odmítají pracovat, až po nejvyšší umožňující pobyt doma s omezeními"
+                        },
+                        {
+                          "text": "Vytvořit 8 úrovní vězeňského systému, které budou vězně motivovat účastnit se práce a postupně se posouvat na vyšší úroveň"
+                        },
+                        {
+                          "text": "Umožnit odpykávání trestu formou domácího vězení s pracovní povinností pro méně závažné trestné činy"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "<b>Proč to chceme:</b>",
+                      "items": [
+                        {
+                          "text": "Řešení dvou problémů najednou - nedostatku pracovníků a přeplněných věznic"
+                        },
+                        {
+                          "text": "Snížení nákladů na vězeňský systém a jejich částečná kompenzace prací odsouzených"
+                        },
+                        {
+                          "text": "Efektivnější resocializace vězňů prostřednictvím pracovních návyků a odpovědnosti"
+                        },
+                        {
+                          "text": "Spravedlivější systém, kde trest odpovídá provinění a ochotě napravit způsobenou škodu"
+                        }
+                      ]
+                    }
+                  ]
+            }
+            ,
+            {
+                "orderNumber": 14,
+                "name": "Obecné referendum jako pojistka demokracie",
+                "howName": "Tohle tady mělo být už 30 let!!!",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Jak říká klasik, \"demokracie není dokonalý systém, ale ten nejlepší, co máme\". A protože není dokonalý, měla by k němu existovat i nějaká záchranná brzda. Je čas dát občanům skutečný nástroj kontroly moci."
+                    },
+                    {
+                    "text": "Ústavou zakotvené celonárodní referendum by mělo fungovat jako pojistka, která zajistí, že hlas lidu bude vyslyšen i mimo volby."
+                    },
+                    {
+                    "text": "<b>Našim cílem je vytvořit systém celonárodního referenda s jasnými pravidly:</b>",
+                    "items": [
+                    {
+                    "text": "Každý občan může navrhnout jednu změnu nebo se k nějaké otázce na změnu přidat"
+                    },
+                    {
+                    "text": "Pokud nějaké téma získá více než 1,5% hlasů, bude zařazeno do seznamu otázek v referendu"
+                    },
+                    {
+                    "text": "Celostátní referendum se musí konat nejpozději 1 rok od zařazení otázky do seznamu"
+                    },
+                    {
+                    "text": "Hlasuje se pouze o změně, nikoli o potvrzení stávajícího stavu"
+                    },
+                    {
+                        "text": "Pro schválení změny musí být splněno jedno z kritérií při účasti větší než 1/3 registrovaných voličů:",
+                        "items": [
+                    
+                    {
+                    "text": "50% a více z registrovancých voličů bude hlasovat pro změnu"
+                    },
+                    {
+                    "text": "Poměr hlasů pro a proti změně bude 2:1 a nebo vyšší"
+                    }
+                    ]
+
+                        }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+
+                    {
+                    "text": "Systém zaručuje, že významné změny budou schváleny skutečnou většinou, ne jen aktivní menšinou"
+                    },
+                    {
+                    "text": "Občané získají skutečný nástroj, jak ovlivnit směřování země mimo volební období"
+                    },
+                    {
+                        "text": "Referendum umožní občanům napravit špatná volební rozhodnutí, která se projeví krátce po volbách"
+                        }
+                    ]
+                    }
+                    ]
+            }
+            ,
+            {
+                "orderNumber": 12,
+                "name": "Razantní snížení drogové kriminality",
+                "howName": "Jak? Kriminalizovat držení velmi nebezpečných drog.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                      "text": "Máme tady povolenou drogu jménem ethanol, která je volně dostupná a na kterou má závislost ohromné množství lidí, a také na ni velké množství lidí umírá. Zároveň existují zakázané látky, které jsou ze zdravotního hlediska daleko méně nebezpečné než alkohol."
+                    },
+                    {
+                      "text": "Současná legislativa vytváří nebezpečný černý trh a drogovou anarchii. Potřebujeme racionální přístup založený na faktech, ne na moralizování."
+                    },
+                    {
+                      "text": "<b>Našim cílem je nastavit drogovou politiku podle reálné nebezpečnosti látek:</b>",
+                      "items": [
+                        {
+                          "text": "Legalizovat a přísně kontrolovat dostupnost a trh s látkami, které jsou méně návykové a zdraví nebezpečné než alkohol"
+                        },
+                        {
+                          "text": "Zavést přísnou regulaci pro výrobu, distribuci a prodej legalizovaných látek"
+                        },
+                        {
+                          "text": "Přísně zakázat jakékoliv držení nebo užívání ostatních nelegálních omamných látek"
+                        },
+                        {
+                          "text": "Použít příjmy z kontrolovaného trhu na prevenci a léčbu závislostí"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "<b>Proč to chceme:</b>",
+                      "items": [
+                        {
+                          "text": "Lépe se bude potírat drogová kriminalita, protože policejní síly se zaměří na skutečně nebezpečné látky"
+                        },
+                        {
+                          "text": "Ubude drogově závislých díky lepší prevenci, kontrole a dostupnosti léčby"
+                        },
+                        {
+                          "text": "Dostupné legální látky budou mít kontrolované složení, což sníží zdravotní rizika"
+                        },
+                        {
+                          "text": "Stát vydělá nemalé peníze na spotřební dani, které budou investovány do zdravotnictví a prevence"
+                        }
+                      ]
+                    }
+                  ]
+            },
+            {
+                "orderNumber": 13,
+                "name": "Odměňování politiků podle výsledků",
+                "howName": "Odměna závislá na skutečném růstu ekonomiky a snižování dluhu.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                      "text": "Odměňování politiků... Proč je platíme za přítomnost a ne za výsledky? Pokud dělá politik svou práci dobře, výsledky se dostaví v řádu středních jednotek roků, ale to už nemusí v politice vůbec být. Je čas to změnit."
+                    },
+                    {
+                      "text": "Politik by měl být odměněn za dlouhodobé přínosy pro společnost, ne jen za čas strávený ve funkci."
+                    },
+                    {
+                      "text": "<b>Našim cílem je vytvořit spravedlivý systém odměňování politiků:</b>",
+                      "items": [
+                        {
+                          "text": "Stanovit základní platy politiků jako násobky průměrné mzdy stanovené na začátku roku"
+                        },
+                        {
+                          "text": "Po skončení volebního období vyplácet rentu po dobu 10 let politikům, kteří se podíleli na úspěšném hlasování o změnách"
+                        },
+                        {
+                          "text": "Výše renty se bude počítat z růstu HDP vyššího než průměrný růst za předchozích 10 let"
+                        },
+                        {
+                          "text": "Zrušit možnost politiků rozhodovat o vlastních platech a odměnách"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "<b>Proč to chceme:</b>",
+                      "items": [
+                        {
+                          "text": "Motivace politiků k dlouhodobým řešením namísto krátkodobých populistických kroků"
+                        },
+                        {
+                          "text": "Omezení politických obstrukcí a podpora spolupráce na nejlepších řešeních"
+                        },
+                        {
+                          "text": "Transparentní systém odměňování vázaný na skutečné ekonomické výsledky"
+                        },
+                        {
+                          "text": "Konec s nekonečnými debatami o platech politiků, které budou navázány na objektivní ukazatele"
+                        }
+                      ]
+                    }
+                  ]
+            },
+            {
+                "orderNumber": 9,
+                "name": "Úředník je váš zaměstnanec",
+                "howName": "Tak pojďme hodnotit úředníky.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "left",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Úředník je váš zaměstnanec, ne naopak. Přesto se často cítíme bezmocní, když musíme jednat se státní správou. Je čas to změnit."
+                    },
+                    {
+                    "text": "Jako občané a daňoví poplatníci máte právo na kvalitní služby od těch, jejichž platy hradíte."
+                    },
+                    {
+                    "text": "<b>Našim cílem je vytvořit systém hodnocení úředníků přímo občany:</b>",
+                    "items": [
+                    {
+                    "text": "Zavedení jednoduchého systému hodnocení po každém kontaktu s úřadem (elektronicky nebo osobně)"
+                    },
+                    {
+                    "text": "Celkové hodnocení úředníka bude mít přímý dopad na jeho finanční ohodnocení"
+                    },
+                    {
+                    "text": "Transparentní zveřejňování výsledků hodnocení na webových stránkách úřadů"
+                    },
+                    {
+                    "text": "Odměňování nadprůměrně hodnocených úředníků a postihy pro ty s podprůměrným hodnocením"
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "Zvýšení kvality služeb státní správy a vstřícnější přístup k občanům"
+                    },
+                    {
+                    "text": "Motivace úředníků k lepším výkonům a proklientskému přístupu"
+                    },
+                    {
+                    "text": "Posílení občanské kontroly nad fungováním státní správy"
+                    },
+                    {
+                    "text": "Skutečná odpovědnost úředníků vůči těm, pro které mají pracovat - občanům"
+                    }
+                    ]
+                    }
+                    ]
+            },
+            {
+                "orderNumber": 6,
+                "name": "Snížíme počet lidí v exekuci o 50%",
+                "howName": "Jak? Nastavíme maximální roční úrok a dlužnou částku na jednotlivce.",
+                "chapterColor": "#e6f2ff",
+                "contentColor": "#f0f8ff",
+                "labelAlign": "right",
+                "labelFontSize": "4em",
+                "contentFontSize": "2.5em",
+                "content": [
+                    {
+                    "text": "Česká republika má přes 600 000 lidí v exekuci. To je enormní číslo, které ukazuje na systémový problém. Mnoha lidem se nevyplatí se z exekuce vyplácet a raději pracují načerno."
+                    },
+                    {
+                    "text": "Pomůžeme lidem, kteří si problémy povětšinou způsobili převážně sami, ale zhoršilo jim je i jednání věřitelů či nedokonalé zákony."
+                    }
+                    ,
+                    { "text": "<b>Chceme proto:</b>",
+                    "items": [
+                    {
+                    "text": "Stanovit maximální roční úrok na skutečně vypůjčené peníze nebo vymáhané částky"
+                    },
+                    {
+                    "text": "Stanovit maximální vymahatelnou částku na osobu, která je v exekuci (mimo pokut či způsobených škod)"
+                    },
+                    {
+                    "text": "Stanovit minimální částku, kterou bude povinné měsíčně vyplácet na exekuce, pokud není osoba v insolvenčním řízení"
+                    },
+                    {
+                    "text": "Zjednodušit systém oddlužení a zpřístupnit ho všem, kteří mají skutečnou snahu své dluhy řešit"
+                    }
+                    ]
+                    },
+                    {
+                    "text": "<b>Proč to chceme:</b>",
+                    "items": [
+                    {
+                    "text": "Vrátíme statisíce lidí z šedé ekonomiky zpět do legálního pracovního trhu"
+                    },
+                    {
+                    "text": "Omezíme predátorské praktiky některých věřitelů a zabráníme nekonečnému narůstání dluhů"
+                    },
+                    {
+                    "text": "Zvýšíme daňové příjmy státu díky návratu lidí do legálního zaměstnání"
+                    },
+                    {
+                    "text": "Umožníme lidem v exekuci důstojný život a šanci na nový začátek, což prospěje celé společnosti"
+                    }
+                    ]
+                    }
+                    ,
+                    {
+                    "text": "<b>Našim cílem je snížit počet lidí v exekuci o 50 procent.</b>"
+                    }
+                    ]
+            }
+        ]
+    
+}
