@@ -170,7 +170,28 @@
                         "textColor": "#fff",
                         "padding": "20px",
                         "copyright": "© 2025 REBELS",
-                        "sections": [
+                        "sections": [{
+                "title": "Links",
+                "links": [
+                    {
+                        "text": "Re3elové - Česká verza",
+                        "url": "https://re3elove.cz"
+                    }
+                ]
+            },
+            {
+                "title": "Social network links",
+                "links": [
+                    {
+                        "text": "Facebook",
+                        "url": "https://www.facebook.com/profile.php?id=61574933116168"
+                    },
+                    {
+                        "text": "YouTube",
+                        "url": "https://www.youtube.com/@re3elove"
+                    }
+                ]
+            }
 
                         ]
                     },
